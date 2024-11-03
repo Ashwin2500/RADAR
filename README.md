@@ -3,7 +3,7 @@
 ## Enhance Your Discord Server Management with Ease!
 Radar is a versatile Discord logging bot crafted to streamline server management by tracking and analyzing key activities. Designed for administrators looking to elevate their server’s performance, Radar offers real-time insights, customizable alerts, and a user-friendly dashboard.
 
-##🌟 Key Features
+## 🌟 Key Features
 - Real-Time Event Logging: Stay updated with instant logs of server events.
 - Customizable Alerts: Tailor alerts to specific activities to keep everyone informed.
 - Intuitive Dashboard: Easily manage logs and customize settings from a central interface.
